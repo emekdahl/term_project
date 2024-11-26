@@ -1,0 +1,1064 @@
+Timestamp,Customer,Event
+2.040120574549602,Customer 1,Arrived
+2.040120574549602,Customer 1,Request type: complex
+2.0907782526350798,Customer 2,Arrived
+2.0907782526350798,Customer 2,Request type: simple
+2.1230769648704624,Customer 2,Resolved by AI
+2.190406316161449,Customer 1,Resolved by AI
+2.3070518204248387,Customer 3,Arrived
+2.3070518204248387,Customer 3,Request type: simple
+2.3339462241051465,Customer 3,Resolved by AI
+2.5038111197417514,Customer 4,Arrived
+2.5038111197417514,Customer 4,Request type: complex
+2.947194458069112,Customer 5,Arrived
+2.947194458069112,Customer 5,Request type: simple
+2.947194458069112,Customer 5,Queued for Level 1 Support
+2.947194458069112,Customer 5,Level 1 Support Started
+3.393619826043514,Customer 4,Resolved by AI
+3.816933926202063,Customer 5,Resolved by Level 1
+6.262670646515307,Customer 6,Arrived
+6.262670646515307,Customer 6,Request type: complex
+7.361160543014718,Customer 7,Arrived
+7.361160543014718,Customer 7,Request type: simple
+7.805854197862866,Customer 7,Resolved by AI
+8.181898402776884,Customer 8,Arrived
+8.181898402776884,Customer 8,Request type: complex
+8.181898402776884,Customer 8,Queued for Level 1 Support
+8.181898402776884,Customer 8,Level 1 Support Started
+9.024952394966354,Customer 9,Arrived
+9.024952394966354,Customer 9,Request type: complex
+9.371929205914906,Customer 9,Resolved by AI
+9.414193294953611,Customer 6,Resolved by AI
+10.561677243026692,Customer 10,Arrived
+10.561677243026692,Customer 10,Request type: complex
+10.561677243026692,Customer 10,Queued for Level 1 Support
+10.561677243026692,Customer 10,Level 1 Support Started
+12.542842836094342,Customer 11,Arrived
+12.542842836094342,Customer 11,Request type: simple
+12.542842836094342,Customer 11,Queued for Level 1 Support
+12.542842836094342,Customer 11,Level 1 Support Started
+12.636657916608119,Customer 12,Arrived
+12.636657916608119,Customer 12,Request type: simple
+13.240714770368383,Customer 12,Resolved by AI
+14.723600555008218,Customer 8,Resolved by Level 1
+16.503088156853256,Customer 13,Arrived
+16.503088156853256,Customer 13,Request type: complex
+16.65832510426585,Customer 10,Resolved by Level 1
+16.813667477993242,Customer 13,Resolved by AI
+16.85812421448655,Customer 14,Arrived
+16.85812421448655,Customer 14,Request type: simple
+17.138911345309076,Customer 14,Resolved by AI
+18.9465734838983,Customer 15,Arrived
+18.9465734838983,Customer 15,Request type: complex
+18.9465734838983,Customer 15,Queued for Level 1 Support
+18.9465734838983,Customer 15,Level 1 Support Started
+20.187334485847988,Customer 16,Arrived
+20.187334485847988,Customer 16,Request type: complex
+20.187334485847988,Customer 16,Queued for Level 1 Support
+20.187334485847988,Customer 16,Level 1 Support Started
+21.815478626182912,Customer 17,Arrived
+21.815478626182912,Customer 17,Request type: simple
+21.815478626182912,Customer 17,Queued for Level 1 Support
+21.815478626182912,Customer 17,Level 1 Support Started
+22.33573714120422,Customer 18,Arrived
+22.33573714120422,Customer 18,Request type: complex
+22.472698729042495,Customer 19,Arrived
+22.472698729042495,Customer 19,Request type: complex
+22.623091850124005,Customer 19,Resolved by AI
+23.027348021462593,Customer 18,Resolved by AI
+24.0548263861995,Customer 15,Escalated to Level 2
+24.0548263861995,Customer 15,Queued for Level 2 Support
+24.0548263861995,Customer 15,Level 2 Support Started
+24.379322737471558,Customer 17,Resolved by Level 1
+26.79284224021474,Customer 20,Arrived
+26.79284224021474,Customer 20,Request type: complex
+26.79284224021474,Customer 20,Queued for Level 1 Support
+26.79284224021474,Customer 20,Level 1 Support Started
+27.667878647069685,Customer 16,Escalated to Level 2
+27.667878647069685,Customer 16,Queued for Level 2 Support
+27.667878647069685,Customer 16,Level 2 Support Started
+29.341977062679057,Customer 20,Escalated to Level 2
+29.341977062679057,Customer 20,Queued for Level 2 Support
+29.541683006726117,Customer 21,Arrived
+29.541683006726117,Customer 21,Request type: simple
+29.541683006726117,Customer 21,Queued for Level 1 Support
+29.541683006726117,Customer 21,Level 1 Support Started
+29.732304073117238,Customer 22,Arrived
+29.732304073117238,Customer 22,Request type: complex
+29.732304073117238,Customer 22,Queued for Level 1 Support
+30.080967994824096,Customer 23,Arrived
+30.080967994824096,Customer 23,Request type: complex
+30.080967994824096,Customer 23,Queued for Level 1 Support
+30.37101929443536,Customer 21,Resolved by Level 1
+30.37101929443536,Customer 22,Level 1 Support Started
+31.052477450290116,Customer 24,Arrived
+31.052477450290116,Customer 24,Request type: simple
+31.174138707391556,Customer 24,Resolved by AI
+31.79790612624232,Customer 15,Resolved by Level 2
+31.79790612624232,Customer 20,Level 2 Support Started
+31.79790612624232,Customer 23,Level 1 Support Started
+33.615759111791334,Customer 11,Resolved by Level 1
+34.99587289915255,Customer 25,Arrived
+34.99587289915255,Customer 25,Request type: complex
+35.56638704773706,Customer 25,Resolved by AI
+37.9230768739323,Customer 26,Arrived
+37.9230768739323,Customer 26,Request type: complex
+37.9230768739323,Customer 26,Queued for Level 1 Support
+37.9230768739323,Customer 26,Level 1 Support Started
+38.74696481729585,Customer 23,Escalated to Level 2
+38.74696481729585,Customer 23,Queued for Level 2 Support
+39.132337671660984,Customer 27,Arrived
+39.132337671660984,Customer 27,Request type: complex
+39.132337671660984,Customer 27,Queued for Level 1 Support
+39.35735595717536,Customer 28,Arrived
+39.35735595717536,Customer 28,Request type: simple
+40.774539152973745,Customer 29,Arrived
+40.774539152973745,Customer 29,Request type: simple
+40.79498908771741,Customer 28,Resolved by AI
+41.4451535307351,Customer 29,Resolved by AI
+42.324898683611494,Customer 30,Arrived
+42.324898683611494,Customer 30,Request type: complex
+42.324898683611494,Customer 30,Queued for Level 1 Support
+42.56216786183377,Customer 31,Arrived
+42.56216786183377,Customer 31,Request type: complex
+42.83775219781817,Customer 31,Resolved by AI
+45.09970582598272,Customer 26,Escalated to Level 2
+45.09970582598272,Customer 26,Queued for Level 2 Support
+46.12577262608875,Customer 32,Arrived
+46.12577262608875,Customer 32,Request type: complex
+46.12577262608875,Customer 32,Queued for Level 1 Support
+46.28983559868681,Customer 33,Arrived
+46.28983559868681,Customer 33,Request type: simple
+46.93473062282274,Customer 33,Resolved by AI
+48.086848215189846,Customer 22,Escalated to Level 2
+48.086848215189846,Customer 22,Queued for Level 2 Support
+53.40775889074277,Customer 20,Resolved by Level 2
+53.40775889074277,Customer 23,Level 2 Support Started
+53.40775889074277,Customer 27,Level 1 Support Started
+53.92185208079359,Customer 34,Arrived
+53.92185208079359,Customer 34,Request type: simple
+53.92185208079359,Customer 34,Queued for Level 1 Support
+55.02215629184848,Customer 35,Arrived
+55.02215629184848,Customer 35,Request type: simple
+55.02215629184848,Customer 35,Queued for Level 1 Support
+56.487377179887375,Customer 23,Resolved by Level 2
+56.487377179887375,Customer 26,Level 2 Support Started
+56.487377179887375,Customer 30,Level 1 Support Started
+57.83731647173193,Customer 36,Arrived
+57.83731647173193,Customer 36,Request type: complex
+58.091818264736325,Customer 36,Resolved by AI
+58.772275714296555,Customer 37,Arrived
+58.772275714296555,Customer 37,Request type: simple
+58.7794925319783,Customer 37,Resolved by AI
+59.59751367300705,Customer 38,Arrived
+59.59751367300705,Customer 38,Request type: simple
+61.57885250533429,Customer 26,Resolved by Level 2
+61.57885250533429,Customer 22,Level 2 Support Started
+61.57885250533429,Customer 32,Level 1 Support Started
+61.94631750348289,Customer 32,Escalated to Level 2
+61.94631750348289,Customer 32,Queued for Level 2 Support
+61.95582305228804,Customer 38,Resolved by AI
+62.05631585185313,Customer 30,Escalated to Level 2
+62.05631585185313,Customer 30,Queued for Level 2 Support
+62.05842751582671,Customer 39,Arrived
+62.05842751582671,Customer 39,Request type: simple
+62.05842751582671,Customer 39,Queued for Level 1 Support
+62.54062714300499,Customer 40,Arrived
+62.54062714300499,Customer 40,Request type: complex
+63.18113053310259,Customer 40,Resolved by AI
+63.70332831212938,Customer 27,Escalated to Level 2
+63.70332831212938,Customer 27,Queued for Level 2 Support
+66.82127181300831,Customer 41,Arrived
+66.82127181300831,Customer 41,Request type: complex
+67.01942308578273,Customer 42,Arrived
+67.01942308578273,Customer 42,Request type: simple
+67.35077456696459,Customer 41,Resolved by AI
+71.00722455276357,Customer 43,Arrived
+71.00722455276357,Customer 43,Request type: complex
+71.00722455276357,Customer 43,Queued for Level 1 Support
+71.16496903288774,Customer 42,Resolved by AI
+71.21443282886385,Customer 44,Arrived
+71.21443282886385,Customer 44,Request type: simple
+71.42541180509976,Customer 44,Resolved by AI
+74.43924255645003,Customer 45,Arrived
+74.43924255645003,Customer 45,Request type: complex
+75.06030737061289,Customer 45,Resolved by AI
+75.62988125760332,Customer 46,Arrived
+75.62988125760332,Customer 46,Request type: simple
+77.60567730772397,Customer 46,Resolved by AI
+79.78055647143634,Customer 47,Arrived
+79.78055647143634,Customer 47,Request type: simple
+80.55836420474043,Customer 47,Resolved by AI
+81.21397208275573,Customer 22,Resolved by Level 2
+81.21397208275573,Customer 32,Level 2 Support Started
+81.21397208275573,Customer 34,Level 1 Support Started
+81.3626504532822,Customer 32,Resolved by Level 2
+81.3626504532822,Customer 30,Level 2 Support Started
+81.3626504532822,Customer 35,Level 1 Support Started
+81.37901821984268,Customer 48,Arrived
+81.37901821984268,Customer 48,Request type: complex
+81.70348503776862,Customer 34,Resolved by Level 1
+81.70348503776862,Customer 39,Level 1 Support Started
+81.89157916933154,Customer 48,Resolved by AI
+82.00560880907724,Customer 39,Resolved by Level 1
+82.00560880907724,Customer 43,Level 1 Support Started
+82.42216475973046,Customer 49,Arrived
+82.42216475973046,Customer 49,Request type: complex
+82.42216475973046,Customer 49,Queued for Level 1 Support
+82.71107209622392,Customer 35,Resolved by Level 1
+82.71107209622392,Customer 49,Level 1 Support Started
+84.38751336564658,Customer 43,Escalated to Level 2
+84.38751336564658,Customer 43,Queued for Level 2 Support
+87.73409297305446,Customer 16,Resolved by Level 2
+87.73409297305446,Customer 27,Level 2 Support Started
+90.39966755338257,Customer 49,Escalated to Level 2
+90.39966755338257,Customer 49,Queued for Level 2 Support
+90.86318392755128,Customer 50,Arrived
+90.86318392755128,Customer 50,Request type: complex
+91.21516679010428,Customer 50,Resolved by AI
+93.92223461693996,Customer 51,Arrived
+93.92223461693996,Customer 51,Request type: simple
+93.92223461693996,Customer 51,Queued for Level 1 Support
+93.92223461693996,Customer 51,Level 1 Support Started
+94.21655598994677,Customer 51,Resolved by Level 1
+95.36924102529919,Customer 30,Resolved by Level 2
+95.36924102529919,Customer 43,Level 2 Support Started
+99.66084505810615,Customer 27,Resolved by Level 2
+99.66084505810615,Customer 49,Level 2 Support Started
+100.85110746993593,Customer 52,Arrived
+100.85110746993593,Customer 52,Request type: simple
+101.56003550982011,Customer 52,Resolved by AI
+104.14421122159848,Customer 43,Resolved by Level 2
+104.68194548811255,Customer 53,Arrived
+104.68194548811255,Customer 53,Request type: simple
+105.806529809813,Customer 53,Resolved by AI
+106.649487635963,Customer 49,Resolved by Level 2
+108.49416665160888,Customer 54,Arrived
+108.49416665160888,Customer 54,Request type: simple
+108.49416665160888,Customer 54,Queued for Level 1 Support
+108.49416665160888,Customer 54,Level 1 Support Started
+109.0304586717966,Customer 55,Arrived
+109.0304586717966,Customer 55,Request type: simple
+109.57385038649387,Customer 55,Resolved by AI
+110.76031907444985,Customer 56,Arrived
+110.76031907444985,Customer 56,Request type: complex
+110.76031907444985,Customer 56,Queued for Level 1 Support
+110.76031907444985,Customer 56,Level 1 Support Started
+111.90272794236174,Customer 56,Escalated to Level 2
+111.90272794236174,Customer 56,Queued for Level 2 Support
+111.90272794236174,Customer 56,Level 2 Support Started
+112.51288419988762,Customer 57,Arrived
+112.51288419988762,Customer 57,Request type: complex
+112.51288419988762,Customer 57,Queued for Level 1 Support
+112.51288419988762,Customer 57,Level 1 Support Started
+112.71024412618085,Customer 54,Resolved by Level 1
+113.52053737107889,Customer 58,Arrived
+113.52053737107889,Customer 58,Request type: simple
+114.62982123238528,Customer 56,Resolved by Level 2
+119.00999543451319,Customer 59,Arrived
+119.00999543451319,Customer 59,Request type: simple
+119.71498181068719,Customer 59,Resolved by AI
+119.99290689867388,Customer 58,Resolved by AI
+125.73955234145659,Customer 57,Escalated to Level 2
+125.73955234145659,Customer 57,Queued for Level 2 Support
+125.73955234145659,Customer 57,Level 2 Support Started
+130.03214442385382,Customer 57,Resolved by Level 2
+130.10173210249908,Customer 60,Arrived
+130.10173210249908,Customer 60,Request type: simple
+130.24427585122663,Customer 61,Arrived
+130.24427585122663,Customer 61,Request type: complex
+130.24427585122663,Customer 61,Queued for Level 1 Support
+130.24427585122663,Customer 61,Level 1 Support Started
+130.27340673827226,Customer 60,Resolved by AI
+133.8327403549775,Customer 62,Arrived
+133.8327403549775,Customer 62,Request type: simple
+134.6415280037334,Customer 62,Resolved by AI
+135.95523647566546,Customer 63,Arrived
+135.95523647566546,Customer 63,Request type: simple
+135.95523647566546,Customer 63,Queued for Level 1 Support
+135.95523647566546,Customer 63,Level 1 Support Started
+136.67626940937376,Customer 63,Resolved by Level 1
+141.3245691531423,Customer 64,Arrived
+141.3245691531423,Customer 64,Request type: simple
+141.3245691531423,Customer 64,Queued for Level 1 Support
+141.3245691531423,Customer 64,Level 1 Support Started
+141.5698734024939,Customer 65,Arrived
+141.5698734024939,Customer 65,Request type: simple
+141.5698734024939,Customer 65,Queued for Level 1 Support
+141.5698734024939,Customer 65,Level 1 Support Started
+142.16931346765108,Customer 64,Resolved by Level 1
+142.23176602797716,Customer 66,Arrived
+142.23176602797716,Customer 66,Request type: complex
+142.23176602797716,Customer 66,Queued for Level 1 Support
+142.23176602797716,Customer 66,Level 1 Support Started
+142.70812506259693,Customer 65,Resolved by Level 1
+143.6776569971937,Customer 66,Resolved by Level 1
+144.2433106638076,Customer 67,Arrived
+144.2433106638076,Customer 67,Request type: complex
+144.2433106638076,Customer 67,Queued for Level 1 Support
+144.2433106638076,Customer 67,Level 1 Support Started
+144.34757984155547,Customer 68,Arrived
+144.34757984155547,Customer 68,Request type: simple
+144.46875128915335,Customer 67,Escalated to Level 2
+144.46875128915335,Customer 67,Queued for Level 2 Support
+144.46875128915335,Customer 67,Level 2 Support Started
+144.6513306777668,Customer 68,Resolved by AI
+145.15917978570843,Customer 69,Arrived
+145.15917978570843,Customer 69,Request type: simple
+146.27531797151102,Customer 70,Arrived
+146.27531797151102,Customer 70,Request type: simple
+148.06052847309778,Customer 69,Resolved by AI
+148.07467635884063,Customer 70,Resolved by AI
+148.62427299431428,Customer 71,Arrived
+148.62427299431428,Customer 71,Request type: simple
+148.66700186636297,Customer 71,Resolved by AI
+150.3712602917178,Customer 72,Arrived
+150.3712602917178,Customer 72,Request type: simple
+150.3712602917178,Customer 72,Queued for Level 1 Support
+150.3712602917178,Customer 72,Level 1 Support Started
+151.27842356344178,Customer 73,Arrived
+151.27842356344178,Customer 73,Request type: simple
+151.55035640266277,Customer 72,Resolved by Level 1
+151.85253407258924,Customer 74,Arrived
+151.85253407258924,Customer 74,Request type: simple
+151.85253407258924,Customer 74,Queued for Level 1 Support
+151.85253407258924,Customer 74,Level 1 Support Started
+152.0487585823124,Customer 61,Escalated to Level 2
+152.0487585823124,Customer 61,Queued for Level 2 Support
+152.0487585823124,Customer 61,Level 2 Support Started
+152.09913942132772,Customer 73,Resolved by AI
+152.49124084092577,Customer 67,Resolved by Level 2
+153.20329932439049,Customer 74,Resolved by Level 1
+156.00682600630475,Customer 75,Arrived
+156.00682600630475,Customer 75,Request type: complex
+156.39655143384246,Customer 76,Arrived
+156.39655143384246,Customer 76,Request type: complex
+156.39655143384246,Customer 76,Queued for Level 1 Support
+156.39655143384246,Customer 76,Level 1 Support Started
+157.20404101508814,Customer 77,Arrived
+157.20404101508814,Customer 77,Request type: complex
+157.34077262183553,Customer 75,Resolved by AI
+158.41228354888253,Customer 77,Resolved by AI
+160.5334065659668,Customer 78,Arrived
+160.5334065659668,Customer 78,Request type: simple
+160.5334065659668,Customer 78,Queued for Level 1 Support
+160.5334065659668,Customer 78,Level 1 Support Started
+161.4976941254095,Customer 79,Arrived
+161.4976941254095,Customer 79,Request type: complex
+161.7913385050531,Customer 78,Resolved by Level 1
+163.21547689651288,Customer 79,Resolved by AI
+164.88971950141746,Customer 80,Arrived
+164.88971950141746,Customer 80,Request type: simple
+165.1043119532271,Customer 80,Resolved by AI
+166.37440793875638,Customer 76,Escalated to Level 2
+166.37440793875638,Customer 76,Queued for Level 2 Support
+166.37440793875638,Customer 76,Level 2 Support Started
+168.13749079667798,Customer 61,Resolved by Level 2
+168.99061983988753,Customer 81,Arrived
+168.99061983988753,Customer 81,Request type: complex
+169.70275755565692,Customer 81,Resolved by AI
+175.80640557576538,Customer 82,Arrived
+175.80640557576538,Customer 82,Request type: complex
+175.80640557576538,Customer 82,Queued for Level 1 Support
+175.80640557576538,Customer 82,Level 1 Support Started
+176.41917491995233,Customer 82,Resolved by Level 1
+178.08226464729472,Customer 83,Arrived
+178.08226464729472,Customer 83,Request type: complex
+178.4756764404,Customer 84,Arrived
+178.4756764404,Customer 84,Request type: complex
+178.4756764404,Customer 84,Queued for Level 1 Support
+178.4756764404,Customer 84,Level 1 Support Started
+178.99002004644797,Customer 83,Resolved by AI
+179.3240156792491,Customer 85,Arrived
+179.3240156792491,Customer 85,Request type: simple
+179.56981087885433,Customer 86,Arrived
+179.56981087885433,Customer 86,Request type: simple
+179.57319629894286,Customer 87,Arrived
+179.57319629894286,Customer 87,Request type: complex
+179.57319629894286,Customer 87,Queued for Level 1 Support
+179.57319629894286,Customer 87,Level 1 Support Started
+179.6423534120064,Customer 86,Resolved by AI
+180.55771010690188,Customer 85,Resolved by AI
+181.75589982876386,Customer 88,Arrived
+181.75589982876386,Customer 88,Request type: complex
+181.75589982876386,Customer 88,Queued for Level 1 Support
+181.75589982876386,Customer 88,Level 1 Support Started
+182.02210637598637,Customer 89,Arrived
+182.02210637598637,Customer 89,Request type: complex
+182.02210637598637,Customer 89,Queued for Level 1 Support
+182.02210637598637,Customer 89,Level 1 Support Started
+182.8116995301662,Customer 90,Arrived
+182.8116995301662,Customer 90,Request type: complex
+182.8116995301662,Customer 90,Queued for Level 1 Support
+183.08708305261854,Customer 89,Resolved by Level 1
+183.08708305261854,Customer 90,Level 1 Support Started
+184.9985277805631,Customer 91,Arrived
+184.9985277805631,Customer 91,Request type: simple
+185.0173102556363,Customer 87,Escalated to Level 2
+185.0173102556363,Customer 87,Queued for Level 2 Support
+185.0173102556363,Customer 87,Level 2 Support Started
+185.23448138751272,Customer 91,Resolved by AI
+185.7145934387886,Customer 92,Arrived
+185.7145934387886,Customer 92,Request type: complex
+185.7145934387886,Customer 92,Queued for Level 1 Support
+186.35139722379378,Customer 76,Resolved by Level 2
+186.35139722379378,Customer 92,Level 1 Support Started
+186.4925447469949,Customer 93,Arrived
+186.4925447469949,Customer 93,Request type: simple
+186.82632158645524,Customer 93,Resolved by AI
+187.2523559858377,Customer 88,Escalated to Level 2
+187.2523559858377,Customer 88,Queued for Level 2 Support
+187.2523559858377,Customer 88,Level 2 Support Started
+187.55349053246917,Customer 92,Escalated to Level 2
+187.55349053246917,Customer 92,Queued for Level 2 Support
+187.77436092061365,Customer 94,Arrived
+187.77436092061365,Customer 94,Request type: simple
+187.8663344721207,Customer 90,Escalated to Level 2
+187.8663344721207,Customer 90,Queued for Level 2 Support
+188.02878962092032,Customer 94,Resolved by AI
+193.8474553923314,Customer 95,Arrived
+193.8474553923314,Customer 95,Request type: simple
+193.8474553923314,Customer 95,Queued for Level 1 Support
+193.89691266364977,Customer 96,Arrived
+193.89691266364977,Customer 96,Request type: simple
+194.34815919430716,Customer 87,Resolved by Level 2
+194.34815919430716,Customer 92,Level 2 Support Started
+194.34815919430716,Customer 95,Level 1 Support Started
+195.78667363250437,Customer 97,Arrived
+195.78667363250437,Customer 97,Request type: complex
+196.06967117255124,Customer 96,Resolved by AI
+196.75562035356097,Customer 98,Arrived
+196.75562035356097,Customer 98,Request type: simple
+196.75562035356097,Customer 98,Queued for Level 1 Support
+196.76674084897027,Customer 99,Arrived
+196.76674084897027,Customer 99,Request type: complex
+196.8539559052868,Customer 97,Resolved by AI
+196.90876265345992,Customer 88,Resolved by Level 2
+196.90876265345992,Customer 90,Level 2 Support Started
+196.90876265345992,Customer 98,Level 1 Support Started
+197.05335453190008,Customer 99,Resolved by AI
+197.26069432868235,Customer 100,Arrived
+197.26069432868235,Customer 100,Request type: complex
+197.26069432868235,Customer 100,Queued for Level 1 Support
+199.22576074535525,Customer 84,Resolved by Level 1
+199.22576074535525,Customer 100,Level 1 Support Started
+199.95703933627053,Customer 98,Resolved by Level 1
+200.49378657794819,Customer 101,Arrived
+200.49378657794819,Customer 101,Request type: complex
+200.49378657794819,Customer 101,Queued for Level 1 Support
+200.49378657794819,Customer 101,Level 1 Support Started
+200.68353725281435,Customer 95,Resolved by Level 1
+202.92061863614904,Customer 92,Resolved by Level 2
+203.03453865071305,Customer 102,Arrived
+203.03453865071305,Customer 102,Request type: complex
+203.03453865071305,Customer 102,Queued for Level 1 Support
+203.03453865071305,Customer 102,Level 1 Support Started
+203.96792373769202,Customer 100,Resolved by Level 1
+204.4627357987562,Customer 101,Escalated to Level 2
+204.4627357987562,Customer 101,Queued for Level 2 Support
+204.4627357987562,Customer 101,Level 2 Support Started
+207.5846361593015,Customer 103,Arrived
+207.5846361593015,Customer 103,Request type: simple
+207.6652860179407,Customer 103,Resolved by AI
+208.91024854566007,Customer 104,Arrived
+208.91024854566007,Customer 104,Request type: complex
+209.58323184169612,Customer 105,Arrived
+209.58323184169612,Customer 105,Request type: simple
+209.75125123150028,Customer 106,Arrived
+209.75125123150028,Customer 106,Request type: simple
+210.00167306666228,Customer 102,Escalated to Level 2
+210.00167306666228,Customer 102,Queued for Level 2 Support
+210.15304517315104,Customer 106,Resolved by AI
+210.7672380200798,Customer 105,Resolved by AI
+211.14542579537056,Customer 104,Resolved by AI
+212.20245559324925,Customer 107,Arrived
+212.20245559324925,Customer 107,Request type: complex
+212.33103288054667,Customer 108,Arrived
+212.33103288054667,Customer 108,Request type: simple
+212.33103288054667,Customer 108,Queued for Level 1 Support
+212.33103288054667,Customer 108,Level 1 Support Started
+213.67124401084146,Customer 107,Resolved by AI
+215.7696628689106,Customer 90,Resolved by Level 2
+215.7696628689106,Customer 102,Level 2 Support Started
+218.17087420644097,Customer 109,Arrived
+218.17087420644097,Customer 109,Request type: complex
+218.18270127466457,Customer 110,Arrived
+218.18270127466457,Customer 110,Request type: complex
+218.18270127466457,Customer 110,Queued for Level 1 Support
+218.18270127466457,Customer 110,Level 1 Support Started
+218.66514864007516,Customer 109,Resolved by AI
+219.49887842917752,Customer 101,Resolved by Level 2
+219.5845482911415,Customer 108,Resolved by Level 1
+220.55616839541807,Customer 102,Resolved by Level 2
+222.62732225850297,Customer 111,Arrived
+222.62732225850297,Customer 111,Request type: simple
+222.94606208421715,Customer 111,Resolved by AI
+224.81592878846038,Customer 110,Escalated to Level 2
+224.81592878846038,Customer 110,Queued for Level 2 Support
+224.81592878846038,Customer 110,Level 2 Support Started
+225.84488022706554,Customer 112,Arrived
+225.84488022706554,Customer 112,Request type: complex
+225.84488022706554,Customer 112,Queued for Level 1 Support
+225.84488022706554,Customer 112,Level 1 Support Started
+228.0553905584043,Customer 113,Arrived
+228.0553905584043,Customer 113,Request type: simple
+228.0553905584043,Customer 113,Queued for Level 1 Support
+228.0553905584043,Customer 113,Level 1 Support Started
+229.7401751605435,Customer 110,Resolved by Level 2
+232.53651722976213,Customer 113,Resolved by Level 1
+233.09542106881617,Customer 114,Arrived
+233.09542106881617,Customer 114,Request type: simple
+233.24125582376274,Customer 114,Resolved by AI
+235.0236145394754,Customer 112,Escalated to Level 2
+235.0236145394754,Customer 112,Queued for Level 2 Support
+235.0236145394754,Customer 112,Level 2 Support Started
+235.2707643229674,Customer 115,Arrived
+235.2707643229674,Customer 115,Request type: simple
+235.5395440742695,Customer 112,Resolved by Level 2
+235.68249987137082,Customer 115,Resolved by AI
+236.22394725128345,Customer 116,Arrived
+236.22394725128345,Customer 116,Request type: complex
+236.22394725128345,Customer 116,Queued for Level 1 Support
+236.22394725128345,Customer 116,Level 1 Support Started
+240.4584830731201,Customer 117,Arrived
+240.4584830731201,Customer 117,Request type: simple
+241.03991382775237,Customer 118,Arrived
+241.03991382775237,Customer 118,Request type: complex
+241.1109999998645,Customer 118,Resolved by AI
+241.14689599747004,Customer 119,Arrived
+241.14689599747004,Customer 119,Request type: simple
+241.14689599747004,Customer 119,Queued for Level 1 Support
+241.14689599747004,Customer 119,Level 1 Support Started
+241.8408820753427,Customer 117,Resolved by AI
+245.14065083881675,Customer 116,Escalated to Level 2
+245.14065083881675,Customer 116,Queued for Level 2 Support
+245.14065083881675,Customer 116,Level 2 Support Started
+245.34655639178348,Customer 116,Resolved by Level 2
+247.453334485597,Customer 120,Arrived
+247.453334485597,Customer 120,Request type: simple
+247.57481246603496,Customer 120,Resolved by AI
+247.78398573425727,Customer 121,Arrived
+247.78398573425727,Customer 121,Request type: complex
+247.78398573425727,Customer 121,Queued for Level 1 Support
+247.78398573425727,Customer 121,Level 1 Support Started
+253.68768532157762,Customer 122,Arrived
+253.68768532157762,Customer 122,Request type: simple
+253.68768532157762,Customer 122,Queued for Level 1 Support
+253.68768532157762,Customer 122,Level 1 Support Started
+254.0550241952128,Customer 123,Arrived
+254.0550241952128,Customer 123,Request type: simple
+254.0550241952128,Customer 123,Queued for Level 1 Support
+254.0550241952128,Customer 123,Level 1 Support Started
+254.5819181903174,Customer 122,Resolved by Level 1
+254.80016518850206,Customer 124,Arrived
+254.80016518850206,Customer 124,Request type: complex
+255.06538360882635,Customer 121,Escalated to Level 2
+255.06538360882635,Customer 121,Queued for Level 2 Support
+255.06538360882635,Customer 121,Level 2 Support Started
+256.0554828852115,Customer 124,Resolved by AI
+256.0868806124149,Customer 119,Resolved by Level 1
+258.34273681776654,Customer 123,Resolved by Level 1
+259.57266717421334,Customer 125,Arrived
+259.57266717421334,Customer 125,Request type: simple
+259.93160565729306,Customer 125,Resolved by AI
+261.54632102370005,Customer 126,Arrived
+261.54632102370005,Customer 126,Request type: simple
+261.54632102370005,Customer 126,Queued for Level 1 Support
+261.54632102370005,Customer 126,Level 1 Support Started
+263.8519873152351,Customer 127,Arrived
+263.8519873152351,Customer 127,Request type: complex
+263.8519873152351,Customer 127,Queued for Level 1 Support
+263.8519873152351,Customer 127,Level 1 Support Started
+263.93585990007045,Customer 128,Arrived
+263.93585990007045,Customer 128,Request type: simple
+263.93585990007045,Customer 128,Queued for Level 1 Support
+263.93585990007045,Customer 128,Level 1 Support Started
+264.2092349796403,Customer 127,Escalated to Level 2
+264.2092349796403,Customer 127,Queued for Level 2 Support
+264.2092349796403,Customer 127,Level 2 Support Started
+265.71909779657994,Customer 126,Resolved by Level 1
+266.02151464167645,Customer 129,Arrived
+266.02151464167645,Customer 129,Request type: complex
+266.02151464167645,Customer 129,Queued for Level 1 Support
+266.02151464167645,Customer 129,Level 1 Support Started
+266.7970529600128,Customer 121,Resolved by Level 2
+268.0404391257616,Customer 130,Arrived
+268.0404391257616,Customer 130,Request type: complex
+268.0404391257616,Customer 130,Queued for Level 1 Support
+268.0404391257616,Customer 130,Level 1 Support Started
+268.88047525817836,Customer 129,Escalated to Level 2
+268.88047525817836,Customer 129,Queued for Level 2 Support
+268.88047525817836,Customer 129,Level 2 Support Started
+270.68741859047265,Customer 131,Arrived
+270.68741859047265,Customer 131,Request type: complex
+270.9691121884757,Customer 131,Resolved by AI
+272.5750226467554,Customer 128,Resolved by Level 1
+274.1817702813091,Customer 132,Arrived
+274.1817702813091,Customer 132,Request type: complex
+274.1817702813091,Customer 132,Queued for Level 1 Support
+274.1817702813091,Customer 132,Level 1 Support Started
+275.1330014486356,Customer 129,Resolved by Level 2
+275.57943669693174,Customer 132,Escalated to Level 2
+275.57943669693174,Customer 132,Queued for Level 2 Support
+275.57943669693174,Customer 132,Level 2 Support Started
+279.6369055050505,Customer 133,Arrived
+279.6369055050505,Customer 133,Request type: simple
+280.0299690828452,Customer 133,Resolved by AI
+280.58971945219247,Customer 134,Arrived
+280.58971945219247,Customer 134,Request type: complex
+280.58971945219247,Customer 134,Queued for Level 1 Support
+280.58971945219247,Customer 134,Level 1 Support Started
+280.64524282643276,Customer 130,Resolved by Level 1
+281.92682345573724,Customer 135,Arrived
+281.92682345573724,Customer 135,Request type: complex
+281.92682345573724,Customer 135,Queued for Level 1 Support
+281.92682345573724,Customer 135,Level 1 Support Started
+282.6698643248409,Customer 134,Escalated to Level 2
+282.6698643248409,Customer 134,Queued for Level 2 Support
+284.3426763439582,Customer 136,Arrived
+284.3426763439582,Customer 136,Request type: complex
+284.3426763439582,Customer 136,Queued for Level 1 Support
+284.3426763439582,Customer 136,Level 1 Support Started
+284.89512177640984,Customer 137,Arrived
+284.89512177640984,Customer 137,Request type: complex
+284.89512177640984,Customer 137,Queued for Level 1 Support
+285.00403095120095,Customer 132,Resolved by Level 2
+285.00403095120095,Customer 134,Level 2 Support Started
+285.00403095120095,Customer 137,Level 1 Support Started
+285.17796750854944,Customer 134,Resolved by Level 2
+285.56165939265975,Customer 135,Escalated to Level 2
+285.56165939265975,Customer 135,Queued for Level 2 Support
+285.56165939265975,Customer 135,Level 2 Support Started
+286.7463998600206,Customer 137,Escalated to Level 2
+286.7463998600206,Customer 137,Queued for Level 2 Support
+287.2414228303488,Customer 138,Arrived
+287.2414228303488,Customer 138,Request type: complex
+287.2414228303488,Customer 138,Queued for Level 1 Support
+287.2414228303488,Customer 138,Level 1 Support Started
+288.16238648412593,Customer 139,Arrived
+288.16238648412593,Customer 139,Request type: complex
+288.3496116877702,Customer 135,Resolved by Level 2
+288.3496116877702,Customer 137,Level 2 Support Started
+288.4519418784178,Customer 139,Resolved by AI
+288.96570509445814,Customer 140,Arrived
+288.96570509445814,Customer 140,Request type: simple
+288.96570509445814,Customer 140,Queued for Level 1 Support
+288.96570509445814,Customer 140,Level 1 Support Started
+289.39353832947694,Customer 141,Arrived
+289.39353832947694,Customer 141,Request type: simple
+289.6354014176078,Customer 137,Resolved by Level 2
+290.05557177599405,Customer 141,Resolved by AI
+291.44016719738033,Customer 136,Escalated to Level 2
+291.44016719738033,Customer 136,Queued for Level 2 Support
+291.44016719738033,Customer 136,Level 2 Support Started
+291.73695975893975,Customer 142,Arrived
+291.73695975893975,Customer 142,Request type: complex
+291.73695975893975,Customer 142,Queued for Level 1 Support
+291.73695975893975,Customer 142,Level 1 Support Started
+293.22431232080174,Customer 143,Arrived
+293.22431232080174,Customer 143,Request type: complex
+293.2385617303941,Customer 143,Resolved by AI
+293.926966468772,Customer 144,Arrived
+293.926966468772,Customer 144,Request type: complex
+293.9830353801178,Customer 144,Resolved by AI
+294.0922571208315,Customer 138,Escalated to Level 2
+294.0922571208315,Customer 138,Queued for Level 2 Support
+295.4546856248027,Customer 145,Arrived
+295.4546856248027,Customer 145,Request type: complex
+295.46702686902194,Customer 145,Resolved by AI
+296.59684917541864,Customer 127,Resolved by Level 2
+296.59684917541864,Customer 138,Level 2 Support Started
+299.9423406248182,Customer 138,Resolved by Level 2
+300.6746526076059,Customer 142,Escalated to Level 2
+300.6746526076059,Customer 142,Queued for Level 2 Support
+300.6746526076059,Customer 142,Level 2 Support Started
+301.2226958932969,Customer 146,Arrived
+301.2226958932969,Customer 146,Request type: complex
+301.2226958932969,Customer 146,Queued for Level 1 Support
+301.2226958932969,Customer 146,Level 1 Support Started
+304.03290174505383,Customer 140,Resolved by Level 1
+304.47054102973306,Customer 146,Resolved by Level 1
+304.8405087193529,Customer 142,Resolved by Level 2
+307.95615117818915,Customer 147,Arrived
+307.95615117818915,Customer 147,Request type: simple
+308.9801619578617,Customer 148,Arrived
+308.9801619578617,Customer 148,Request type: complex
+309.1159508676952,Customer 147,Resolved by AI
+309.2654348749403,Customer 148,Resolved by AI
+309.3092674963254,Customer 149,Arrived
+309.3092674963254,Customer 149,Request type: complex
+309.3092674963254,Customer 149,Queued for Level 1 Support
+309.3092674963254,Customer 149,Level 1 Support Started
+310.94248879082335,Customer 150,Arrived
+310.94248879082335,Customer 150,Request type: complex
+310.94248879082335,Customer 150,Queued for Level 1 Support
+310.94248879082335,Customer 150,Level 1 Support Started
+311.45404733359794,Customer 151,Arrived
+311.45404733359794,Customer 151,Request type: complex
+312.42433849735767,Customer 151,Resolved by AI
+313.8659351608662,Customer 150,Escalated to Level 2
+313.8659351608662,Customer 150,Queued for Level 2 Support
+313.8659351608662,Customer 150,Level 2 Support Started
+315.38865540506265,Customer 152,Arrived
+315.38865540506265,Customer 152,Request type: simple
+315.6960588385072,Customer 152,Resolved by AI
+317.1301762295578,Customer 149,Escalated to Level 2
+317.1301762295578,Customer 149,Queued for Level 2 Support
+321.2859787819613,Customer 153,Arrived
+321.2859787819613,Customer 153,Request type: simple
+321.81110208660544,Customer 153,Resolved by AI
+321.8344977092382,Customer 154,Arrived
+321.8344977092382,Customer 154,Request type: complex
+322.0977815012644,Customer 154,Resolved by AI
+324.1728105933964,Customer 155,Arrived
+324.1728105933964,Customer 155,Request type: complex
+324.4386317741277,Customer 155,Resolved by AI
+326.62767445351795,Customer 156,Arrived
+326.62767445351795,Customer 156,Request type: simple
+327.2422324771165,Customer 157,Arrived
+327.2422324771165,Customer 157,Request type: complex
+327.2422324771165,Customer 157,Queued for Level 1 Support
+327.2422324771165,Customer 157,Level 1 Support Started
+327.34010705689764,Customer 150,Resolved by Level 2
+327.34010705689764,Customer 149,Level 2 Support Started
+327.41417097075555,Customer 156,Resolved by AI
+327.61267146043406,Customer 157,Escalated to Level 2
+327.61267146043406,Customer 157,Queued for Level 2 Support
+328.9933614461005,Customer 136,Resolved by Level 2
+328.9933614461005,Customer 157,Level 2 Support Started
+329.1544000772628,Customer 149,Resolved by Level 2
+329.3284063247848,Customer 158,Arrived
+329.3284063247848,Customer 158,Request type: complex
+329.3284063247848,Customer 158,Queued for Level 1 Support
+329.3284063247848,Customer 158,Level 1 Support Started
+331.01266171909623,Customer 159,Arrived
+331.01266171909623,Customer 159,Request type: complex
+331.01266171909623,Customer 159,Queued for Level 1 Support
+331.01266171909623,Customer 159,Level 1 Support Started
+331.73773501535493,Customer 160,Arrived
+331.73773501535493,Customer 160,Request type: simple
+332.4905294509621,Customer 158,Escalated to Level 2
+332.4905294509621,Customer 158,Queued for Level 2 Support
+332.4905294509621,Customer 158,Level 2 Support Started
+333.0993629887829,Customer 161,Arrived
+333.0993629887829,Customer 161,Request type: simple
+333.0993629887829,Customer 161,Queued for Level 1 Support
+333.0993629887829,Customer 161,Level 1 Support Started
+333.15177353034125,Customer 162,Arrived
+333.15177353034125,Customer 162,Request type: simple
+333.15177353034125,Customer 162,Queued for Level 1 Support
+333.15177353034125,Customer 162,Level 1 Support Started
+333.9397771822951,Customer 160,Resolved by AI
+334.48312162399213,Customer 159,Escalated to Level 2
+334.48312162399213,Customer 159,Queued for Level 2 Support
+334.86404295457464,Customer 163,Arrived
+334.86404295457464,Customer 163,Request type: simple
+334.94616965424746,Customer 164,Arrived
+334.94616965424746,Customer 164,Request type: simple
+334.94616965424746,Customer 164,Queued for Level 1 Support
+335.9181872330919,Customer 163,Resolved by AI
+338.7297761705406,Customer 162,Resolved by Level 1
+338.7297761705406,Customer 164,Level 1 Support Started
+339.90178041169656,Customer 165,Arrived
+339.90178041169656,Customer 165,Request type: simple
+340.4266172243907,Customer 165,Resolved by AI
+341.5922617937973,Customer 164,Resolved by Level 1
+341.7467114523114,Customer 158,Resolved by Level 2
+341.7467114523114,Customer 159,Level 2 Support Started
+342.1375456325994,Customer 161,Resolved by Level 1
+342.81470060674854,Customer 157,Resolved by Level 2
+343.2684331702648,Customer 166,Arrived
+343.2684331702648,Customer 166,Request type: simple
+343.48940237881453,Customer 167,Arrived
+343.48940237881453,Customer 167,Request type: complex
+343.48940237881453,Customer 167,Queued for Level 1 Support
+343.48940237881453,Customer 167,Level 1 Support Started
+344.16936899226727,Customer 168,Arrived
+344.16936899226727,Customer 168,Request type: complex
+344.29257852638005,Customer 168,Resolved by AI
+344.4515374906309,Customer 166,Resolved by AI
+345.3826691954047,Customer 169,Arrived
+345.3826691954047,Customer 169,Request type: simple
+345.6189109703131,Customer 159,Resolved by Level 2
+346.1648521884301,Customer 169,Resolved by AI
+347.48301440816556,Customer 167,Escalated to Level 2
+347.48301440816556,Customer 167,Queued for Level 2 Support
+347.48301440816556,Customer 167,Level 2 Support Started
+348.34430064879496,Customer 170,Arrived
+348.34430064879496,Customer 170,Request type: complex
+348.34430064879496,Customer 170,Queued for Level 1 Support
+348.34430064879496,Customer 170,Level 1 Support Started
+349.2424430955406,Customer 171,Arrived
+349.2424430955406,Customer 171,Request type: simple
+349.2424430955406,Customer 171,Queued for Level 1 Support
+349.2424430955406,Customer 171,Level 1 Support Started
+349.56042400164,Customer 167,Resolved by Level 2
+349.6976456358078,Customer 172,Arrived
+349.6976456358078,Customer 172,Request type: simple
+350.6919581190833,Customer 172,Resolved by AI
+352.09395866683866,Customer 173,Arrived
+352.09395866683866,Customer 173,Request type: simple
+352.1077274879659,Customer 173,Resolved by AI
+352.12474322198983,Customer 171,Resolved by Level 1
+355.30598357163734,Customer 174,Arrived
+355.30598357163734,Customer 174,Request type: simple
+355.30598357163734,Customer 174,Queued for Level 1 Support
+355.30598357163734,Customer 174,Level 1 Support Started
+355.47968526548755,Customer 170,Escalated to Level 2
+355.47968526548755,Customer 170,Queued for Level 2 Support
+355.47968526548755,Customer 170,Level 2 Support Started
+356.35444939822264,Customer 175,Arrived
+356.35444939822264,Customer 175,Request type: complex
+356.35444939822264,Customer 175,Queued for Level 1 Support
+356.35444939822264,Customer 175,Level 1 Support Started
+356.72926659486916,Customer 170,Resolved by Level 2
+358.08002773847136,Customer 175,Escalated to Level 2
+358.08002773847136,Customer 175,Queued for Level 2 Support
+358.08002773847136,Customer 175,Level 2 Support Started
+359.9237371737102,Customer 176,Arrived
+359.9237371737102,Customer 176,Request type: complex
+360.7250601109595,Customer 176,Resolved by AI
+361.2412270464506,Customer 177,Arrived
+361.2412270464506,Customer 177,Request type: simple
+361.2412270464506,Customer 177,Queued for Level 1 Support
+361.2412270464506,Customer 177,Level 1 Support Started
+362.2089000159715,Customer 178,Arrived
+362.2089000159715,Customer 178,Request type: complex
+362.85775535445,Customer 177,Resolved by Level 1
+363.44984750129515,Customer 175,Resolved by Level 2
+363.75873691624844,Customer 178,Resolved by AI
+365.3302543895876,Customer 179,Arrived
+365.3302543895876,Customer 179,Request type: simple
+365.68486838698175,Customer 179,Resolved by AI
+365.9519447126901,Customer 180,Arrived
+365.9519447126901,Customer 180,Request type: complex
+365.9519447126901,Customer 180,Queued for Level 1 Support
+365.9519447126901,Customer 180,Level 1 Support Started
+367.5111910242963,Customer 174,Resolved by Level 1
+367.72025852109647,Customer 181,Arrived
+367.72025852109647,Customer 181,Request type: complex
+367.72025852109647,Customer 181,Queued for Level 1 Support
+367.72025852109647,Customer 181,Level 1 Support Started
+368.9098404866252,Customer 180,Escalated to Level 2
+368.9098404866252,Customer 180,Queued for Level 2 Support
+368.9098404866252,Customer 180,Level 2 Support Started
+369.0448791858181,Customer 182,Arrived
+369.0448791858181,Customer 182,Request type: simple
+369.3108812388977,Customer 182,Resolved by AI
+369.462996541073,Customer 183,Arrived
+369.462996541073,Customer 183,Request type: simple
+370.10350620657175,Customer 183,Resolved by AI
+371.6403254609076,Customer 181,Resolved by Level 1
+372.45115193861704,Customer 184,Arrived
+372.45115193861704,Customer 184,Request type: simple
+372.48887417085325,Customer 184,Resolved by AI
+372.79263701620545,Customer 180,Resolved by Level 2
+373.4111989305831,Customer 185,Arrived
+373.4111989305831,Customer 185,Request type: complex
+373.4111989305831,Customer 185,Queued for Level 1 Support
+373.4111989305831,Customer 185,Level 1 Support Started
+374.80667895407635,Customer 186,Arrived
+374.80667895407635,Customer 186,Request type: complex
+374.9623454341099,Customer 186,Resolved by AI
+375.96740985000883,Customer 187,Arrived
+375.96740985000883,Customer 187,Request type: simple
+377.4884948706881,Customer 187,Resolved by AI
+380.0622566652544,Customer 188,Arrived
+380.0622566652544,Customer 188,Request type: complex
+380.0622566652544,Customer 188,Queued for Level 1 Support
+380.0622566652544,Customer 188,Level 1 Support Started
+380.6780882109057,Customer 189,Arrived
+380.6780882109057,Customer 189,Request type: complex
+380.6780882109057,Customer 189,Queued for Level 1 Support
+380.6780882109057,Customer 189,Level 1 Support Started
+383.77612602954235,Customer 185,Resolved by Level 1
+384.50379220497973,Customer 190,Arrived
+384.50379220497973,Customer 190,Request type: simple
+384.77137135941274,Customer 190,Resolved by AI
+385.60628126160543,Customer 189,Escalated to Level 2
+385.60628126160543,Customer 189,Queued for Level 2 Support
+385.60628126160543,Customer 189,Level 2 Support Started
+385.8424483881898,Customer 191,Arrived
+385.8424483881898,Customer 191,Request type: simple
+385.9460805387572,Customer 191,Resolved by AI
+386.35865940970314,Customer 192,Arrived
+386.35865940970314,Customer 192,Request type: simple
+387.54283338671803,Customer 192,Resolved by AI
+388.36752579055286,Customer 193,Arrived
+388.36752579055286,Customer 193,Request type: simple
+388.4252812123248,Customer 193,Resolved by AI
+388.9943368852911,Customer 189,Resolved by Level 2
+389.6070486596281,Customer 188,Escalated to Level 2
+389.6070486596281,Customer 188,Queued for Level 2 Support
+389.6070486596281,Customer 188,Level 2 Support Started
+393.0423771072352,Customer 194,Arrived
+393.0423771072352,Customer 194,Request type: complex
+393.0423771072352,Customer 194,Queued for Level 1 Support
+393.0423771072352,Customer 194,Level 1 Support Started
+393.60232728841856,Customer 195,Arrived
+393.60232728841856,Customer 195,Request type: simple
+393.9749470453537,Customer 196,Arrived
+393.9749470453537,Customer 196,Request type: complex
+393.9749470453537,Customer 196,Queued for Level 1 Support
+393.9749470453537,Customer 196,Level 1 Support Started
+394.08447524012274,Customer 195,Resolved by AI
+394.74722070967016,Customer 196,Escalated to Level 2
+394.74722070967016,Customer 196,Queued for Level 2 Support
+394.74722070967016,Customer 196,Level 2 Support Started
+395.2402940155547,Customer 188,Resolved by Level 2
+396.273503320789,Customer 197,Arrived
+396.273503320789,Customer 197,Request type: simple
+396.273503320789,Customer 197,Queued for Level 1 Support
+396.273503320789,Customer 197,Level 1 Support Started
+396.8631227032465,Customer 198,Arrived
+396.8631227032465,Customer 198,Request type: simple
+397.541443059144,Customer 199,Arrived
+397.541443059144,Customer 199,Request type: complex
+397.541443059144,Customer 199,Queued for Level 1 Support
+397.541443059144,Customer 199,Level 1 Support Started
+397.6772137408548,Customer 196,Resolved by Level 2
+399.40331341567406,Customer 197,Resolved by Level 1
+399.7678382723236,Customer 198,Resolved by AI
+400.30236362748786,Customer 199,Escalated to Level 2
+400.30236362748786,Customer 199,Queued for Level 2 Support
+400.30236362748786,Customer 199,Level 2 Support Started
+400.90596607595654,Customer 194,Escalated to Level 2
+400.90596607595654,Customer 194,Queued for Level 2 Support
+400.90596607595654,Customer 194,Level 2 Support Started
+405.7623096095483,Customer 194,Resolved by Level 2
+406.32991603911074,Customer 200,Arrived
+406.32991603911074,Customer 200,Request type: simple
+406.77457814647386,Customer 200,Resolved by AI
+407.65014588843115,Customer 201,Arrived
+407.65014588843115,Customer 201,Request type: complex
+408.3517372391359,Customer 202,Arrived
+408.3517372391359,Customer 202,Request type: simple
+409.3594562626331,Customer 203,Arrived
+409.3594562626331,Customer 203,Request type: simple
+409.3594562626331,Customer 203,Queued for Level 1 Support
+409.3594562626331,Customer 203,Level 1 Support Started
+409.42232370473397,Customer 201,Resolved by AI
+409.5094611778294,Customer 202,Resolved by AI
+412.0898440911515,Customer 204,Arrived
+412.0898440911515,Customer 204,Request type: complex
+412.0898440911515,Customer 204,Queued for Level 1 Support
+412.0898440911515,Customer 204,Level 1 Support Started
+413.3974367434659,Customer 204,Resolved by Level 1
+415.6674386090462,Customer 205,Arrived
+415.6674386090462,Customer 205,Request type: simple
+416.1618104907403,Customer 206,Arrived
+416.1618104907403,Customer 206,Request type: simple
+416.1952916429672,Customer 203,Resolved by Level 1
+416.79991111493746,Customer 205,Resolved by AI
+418.49902537367984,Customer 206,Resolved by AI
+418.7143841220691,Customer 207,Arrived
+418.7143841220691,Customer 207,Request type: complex
+418.7143841220691,Customer 207,Queued for Level 1 Support
+418.7143841220691,Customer 207,Level 1 Support Started
+418.8840532515634,Customer 207,Escalated to Level 2
+418.8840532515634,Customer 207,Queued for Level 2 Support
+418.8840532515634,Customer 207,Level 2 Support Started
+418.96529257082705,Customer 199,Resolved by Level 2
+420.2929147660133,Customer 207,Resolved by Level 2
+420.79322612414927,Customer 208,Arrived
+420.79322612414927,Customer 208,Request type: complex
+420.79322612414927,Customer 208,Queued for Level 1 Support
+420.79322612414927,Customer 208,Level 1 Support Started
+421.75896630781006,Customer 208,Escalated to Level 2
+421.75896630781006,Customer 208,Queued for Level 2 Support
+421.75896630781006,Customer 208,Level 2 Support Started
+425.6008635587897,Customer 209,Arrived
+425.6008635587897,Customer 209,Request type: complex
+425.6008635587897,Customer 209,Queued for Level 1 Support
+425.6008635587897,Customer 209,Level 1 Support Started
+427.0859584189776,Customer 209,Resolved by Level 1
+429.5113876790364,Customer 208,Resolved by Level 2
+432.71583493275085,Customer 210,Arrived
+432.71583493275085,Customer 210,Request type: complex
+432.71583493275085,Customer 210,Queued for Level 1 Support
+432.71583493275085,Customer 210,Level 1 Support Started
+434.03080756303194,Customer 211,Arrived
+434.03080756303194,Customer 211,Request type: simple
+434.27552638741736,Customer 212,Arrived
+434.27552638741736,Customer 212,Request type: complex
+434.27552638741736,Customer 212,Queued for Level 1 Support
+434.27552638741736,Customer 212,Level 1 Support Started
+434.78368868752483,Customer 210,Escalated to Level 2
+434.78368868752483,Customer 210,Queued for Level 2 Support
+434.78368868752483,Customer 210,Level 2 Support Started
+437.4270236558221,Customer 211,Resolved by AI
+438.2097616365101,Customer 213,Arrived
+438.2097616365101,Customer 213,Request type: simple
+438.23779449227965,Customer 214,Arrived
+438.23779449227965,Customer 214,Request type: complex
+438.23779449227965,Customer 214,Queued for Level 1 Support
+438.23779449227965,Customer 214,Level 1 Support Started
+439.3270320561939,Customer 213,Resolved by AI
+440.469356946407,Customer 215,Arrived
+440.469356946407,Customer 215,Request type: simple
+440.69871140369924,Customer 216,Arrived
+440.69871140369924,Customer 216,Request type: complex
+440.69871140369924,Customer 216,Queued for Level 1 Support
+440.69871140369924,Customer 216,Level 1 Support Started
+441.43574922793266,Customer 215,Resolved by AI
+441.9497899931677,Customer 216,Escalated to Level 2
+441.9497899931677,Customer 216,Queued for Level 2 Support
+441.9497899931677,Customer 216,Level 2 Support Started
+442.4387429228518,Customer 212,Resolved by Level 1
+446.434062846837,Customer 217,Arrived
+446.434062846837,Customer 217,Request type: complex
+446.48047000418796,Customer 217,Resolved by AI
+447.1536801862137,Customer 218,Arrived
+447.1536801862137,Customer 218,Request type: complex
+447.22952452617216,Customer 219,Arrived
+447.22952452617216,Customer 219,Request type: complex
+447.22952452617216,Customer 219,Queued for Level 1 Support
+447.22952452617216,Customer 219,Level 1 Support Started
+447.4212982700126,Customer 218,Resolved by AI
+448.7719435193381,Customer 220,Arrived
+448.7719435193381,Customer 220,Request type: complex
+448.7719435193381,Customer 220,Queued for Level 1 Support
+448.7719435193381,Customer 220,Level 1 Support Started
+450.42269370961145,Customer 210,Resolved by Level 2
+451.49039264475385,Customer 221,Arrived
+451.49039264475385,Customer 221,Request type: simple
+451.49039264475385,Customer 221,Queued for Level 1 Support
+451.49039264475385,Customer 221,Level 1 Support Started
+452.32923175086904,Customer 214,Resolved by Level 1
+452.78021003359095,Customer 219,Escalated to Level 2
+452.78021003359095,Customer 219,Queued for Level 2 Support
+452.78021003359095,Customer 219,Level 2 Support Started
+455.2560247580256,Customer 220,Escalated to Level 2
+455.2560247580256,Customer 220,Queued for Level 2 Support
+455.82324816533657,Customer 222,Arrived
+455.82324816533657,Customer 222,Request type: simple
+455.82324816533657,Customer 222,Queued for Level 1 Support
+455.82324816533657,Customer 222,Level 1 Support Started
+456.2714298633106,Customer 221,Resolved by Level 1
+456.34646660967945,Customer 222,Resolved by Level 1
+456.99972679520664,Customer 223,Arrived
+456.99972679520664,Customer 223,Request type: complex
+457.3225269394935,Customer 223,Resolved by AI
+459.3142875370886,Customer 216,Resolved by Level 2
+459.3142875370886,Customer 220,Level 2 Support Started
+459.3144158919133,Customer 224,Arrived
+459.3144158919133,Customer 224,Request type: complex
+459.5528073735865,Customer 224,Resolved by AI
+464.50109761881845,Customer 219,Resolved by Level 2
+465.2666982982856,Customer 225,Arrived
+465.2666982982856,Customer 225,Request type: simple
+465.6724271758266,Customer 225,Resolved by AI
+467.30718565624926,Customer 226,Arrived
+467.30718565624926,Customer 226,Request type: simple
+468.75602533005843,Customer 226,Resolved by AI
+476.29460499217055,Customer 227,Arrived
+476.29460499217055,Customer 227,Request type: simple
+476.29460499217055,Customer 227,Queued for Level 1 Support
+476.29460499217055,Customer 227,Level 1 Support Started
+476.75886604498305,Customer 228,Arrived
+476.75886604498305,Customer 228,Request type: simple
+477.62093876907915,Customer 227,Resolved by Level 1
+479.7365710175373,Customer 229,Arrived
+479.7365710175373,Customer 229,Request type: complex
+479.7365710175373,Customer 229,Queued for Level 1 Support
+479.7365710175373,Customer 229,Level 1 Support Started
