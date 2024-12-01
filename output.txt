@@ -1,4 +1,4 @@
-@emekdahl ➜ /workspaces/term_project (main) $ uv run example.py
+@emekdahl ➜ /workspaces/term_project (main) $ uv run customer_support.py
 Enter AI deflection rate for simple cases (0-1): 0.7
 Enter AI deflection rate for complex cases (0-1): 0.2
 
@@ -49,7 +49,7 @@ Possible Staffing Combinations to Meet Performance Criteria:
          9         10               1.57               1.10            19
         10          9               1.47               1.91            19
         10         10               1.48               1.37            20
-@emekdahl ➜ /workspaces/term_project (main) $ uv run example.py
+@emekdahl ➜ /workspaces/term_project (main) $ uv run customer_support.py
 Enter AI deflection rate for simple cases (0-1): 0.5
 Enter AI deflection rate for complex cases (0-1): 0.15
 
@@ -100,7 +100,7 @@ Possible Staffing Combinations to Meet Performance Criteria:
          9         10               1.61               0.58            19
         10          9               1.51               1.19            19
         10         10               1.52               0.90            20
-@emekdahl ➜ /workspaces/term_project (main) $ uv run example.py
+@emekdahl ➜ /workspaces/term_project (main) $ uv run customer_support.py
 Enter AI deflection rate for simple cases (0-1): 0.3
 Enter AI deflection rate for complex cases (0-1): 0
 
