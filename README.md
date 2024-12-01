@@ -1,13 +1,28 @@
 # MSDS 460: Discrete Simulation Term Project
 
-## Deliverables and File Formats  
-Create a folder or directory with all supplementary files with your last name at the beginning of the folder name, compress that folder with zip compression, and post the zip-archived folder under the assignment link in Canvas. The following files should be included in a GitHub repository for the term project. Include the web address text (URL) for the GitHub repository in the comments form of the assignment posting. The link you provide for each assignment needs to be a repository that can be cloned. It should end with the .git extension.
+## Project
 
-Your git repository should have files that can be viewed in Visual Studio Code after the cloning of the repository.  Files with these extensions should work fine:  py, txt, csv, json, png, jpg, md, and pdf. Export or convert proprietary Microsoft Office files to readable formats for inclusion in the repository: (xlsx to csv, doc and pptx to pdf).
+- Code: [customer_support.py](customer_support.py)
 
-1. The text content of the paper should consist of no more than four pages, double-spaced. Figures and tables may go in an appendix and do not count as part of the four pages. The paper must be provided as an Adobe Acrobat pdf file. (MS Word files are NOT acceptable.)
-2. Files or links to files for programs and data should be provided as plain text files. Comma-delimited text (csv) or JSON are preferred for data files.)
-3. Complete program code used to access and analyze the data. The code should be submitted as a plain text files. If you use Jupyter notebook, ensure that you export and include a Python plain text (.py) file in addition to your Jupyter notebook file. 
-4. Output from the program, such as console listing/logs, text files, and graphics output for visualizations. These files may be plain text or HTML viewable in a web browser. So, if you use Jupyter notebook, ensure that you include and export the HTML file with all code and output cells displayed.
-5. List file names and descriptions of files in the zip-compressed folder/directory. Recognizing that long file names can pose problems on systems that have limited path lengths, ensure that file names are short but descriptive. For example, the file for the paper could have the form identifier-name-paper.pdf as in identifier-name-term-paper.pdf   The identifier name should be the student's last name or the workgroup name/number.
-6. Each workgroup/team or individual is required to make a video recording of its work with all members of the workgroup included in the recording. Any students working individually (rather than as a members of a workgroup) is required to post a video of his/her work. Videos should be at least five minutes long, but no more than fifteen minutes long. These videos should be posted to the Week 10 discussion forum prior to the sync session presentation in week 10, so all students have a chance to hear about your work. At least one member of the team should be available to describe the term project during the final sync session in week 10. 
+- Output: [output.csv](output.csv)
+
+- Paper: [ekdahl_term_paper.pdf](ekdahl_term_paper.pdf)
+
+## How to Run This Code
+
+1. Install uv 
+
+`pip install uv`
+
+2. Install dependencies
+
+`uv sync`
+
+3. Run the code
+
+`uv run customer_support.py`
+
+When prompted, enter the AI resolution rate for simple and complex cases respectively.
+
+Wait patiently, it takes a few seconds for the different scenarios to run.
+
