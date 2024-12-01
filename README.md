@@ -26,3 +26,5 @@ When prompted, enter the AI resolution rate for simple and complex cases respect
 
 Wait patiently, it takes a few seconds for the different scenarios to run.
 
+4. Review results
+
