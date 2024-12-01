@@ -4,7 +4,7 @@
 
 - Code: [customer_support.py](customer_support.py)
 
-- Output: [output.csv](output.csv)
+- Output: [output.txt](output.txt) or [output.csv](output.csv)
 
 - Paper: [ekdahl_term_paper.pdf](ekdahl_term_paper.pdf)
 
